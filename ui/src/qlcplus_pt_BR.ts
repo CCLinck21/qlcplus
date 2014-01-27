@@ -5,115 +5,115 @@
     <name>AboutBox</name>
     <message>
         <location filename="aboutbox.ui" line="14"/>
-        <source>About Q Light Controller Plus</source>
+        <source>Sobre o Q Light Controller Plus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="aboutbox.ui" line="69"/>
-        <source>Contributors</source>
+        <source>Colaboradores</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="aboutbox.ui" line="116"/>
-        <source>This application is licensed under the terms of the Apache 2.0 license.</source>
+        <source>Este aplicativo é licenciado sob os termos da licença Apache 2.0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="aboutbox.cpp" line="41"/>
-        <source>and contributors:</source>
+        <source>e colaboradores:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="aboutbox.cpp" line="42"/>
-        <source>Website: %1</source>
+        <source>Endereço Web: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>AddChannelsGroup</name>
+    <name>Adicionar Grupo de Canais</name>
     <message>
         <location filename="addchannelsgroup.ui" line="14"/>
-        <source>Select Channels</source>
+        <source>Selecione os Canais</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="24"/>
-        <source>Group Name</source>
+        <source>Nome do Grupo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="48"/>
-        <source>Name</source>
+        <source>Nome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="53"/>
-        <source>Type</source>
+        <source>Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="58"/>
-        <source>Group</source>
+        <source>Grupo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="66"/>
-        <source>Apply changes to fixtures of the same type</source>
+        <source>Aplicar alterações em todos dispositivos do mesmo Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="73"/>
-        <source>External Input</source>
+        <source>Entrada Externa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="79"/>
-        <source>Input channel</source>
+        <source>Canal de Entrada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="86"/>
-        <source>The particular input channel within the input universe that sends data to this widget</source>
+        <source>O canal de entrada específico no Universo de Entrada que envia os dados para este "Widget"</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="109"/>
-        <source>The input universe that sends data to this widget</source>
+        <source>O Universo de entrada que envia dados para este Widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="119"/>
-        <source>Choose an external input universe and channel that this group should listen to</source>
+        <source>Escolha um Universo externo de entrada e o Canal que o grupo receberá o sinal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="122"/>
-        <source>Choose...</source>
+        <source>Escolha…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="129"/>
-        <source>When toggled, you can move an external slider/knob to assign it to this group.</source>
+        <source>Quando alternar, você deve mover algum Controle deslizante ou Botão externo, para atribuí-lo a este grupo.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="132"/>
-        <source>Auto Detect</source>
+        <source>Detecção Automática</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="142"/>
-        <source>Input universe</source>
+        <source>Universo de entrada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addchannelsgroup.cpp" line="80"/>
-        <source>Universe %1</source>
+        <source>Universo %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>AddFixture</name>
+    <name>Adicionar Dispositivo</name>
     <message>
         <location filename="addfixture.ui" line="14"/>
         <source>Add fixture</source>
