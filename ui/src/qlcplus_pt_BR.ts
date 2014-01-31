@@ -93,7 +93,7 @@
     </message>
     <message>
         <location filename="addchannelsgroup.ui" line="129"/>
-        <source>Quando alternar, você deve mover algum Controle deslizante ou Botão externo, para atribuí-lo a este grupo.</source>
+        <source>Quando alternar, você deve mover um controle externo: Deslizante ou Botão, para atribuí-lo ao grupo.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -116,102 +116,102 @@
     <name>Adicionar Dispositivo</name>
     <message>
         <location filename="addfixture.ui" line="14"/>
-        <source>Add fixture</source>
+        <source>Adicione um Dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="20"/>
-        <source>Multiple Fixtures</source>
+        <source>Multiplos dispositivos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="26"/>
-        <source>Quantity</source>
+        <source>Quantidade</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="39"/>
-        <source>Number of fixtures to add</source>
+        <source>Número de Dispositivos a adicionar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="52"/>
-        <source>Address gap</source>
+        <source>Intervalo entre Endereços</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="65"/>
-        <source>Number of empty channels to leave between added fixtures</source>
+        <source>Número de Canais vazios entre Dispositivos adicionados</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="78"/>
-        <source>Fixture Properties</source>
+        <source>Propriedades do Dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="84"/>
-        <source>Name</source>
+        <source>Nome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="97"/>
-        <source>A friendly name for the new fixture</source>
+        <source>Um apelido para o novo Dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="104"/>
-        <source>Mode</source>
+        <source>Modo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="117"/>
-        <source>Selected fixture mode</source>
+        <source>Selecione o Modo do dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="131"/>
-        <source>Universe</source>
+        <source>Universo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="148"/>
-        <source>Address</source>
+        <source>Endereço</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="161"/>
-        <source>The starting address of the (first) added fixture</source>
+        <source>Endereço inicial para o (primeiro) Dispositivo adicionado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="174"/>
-        <source>Channels</source>
+        <source>Canais</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="190"/>
-        <source>Number of channels in the selected fixture</source>
+        <source>Número de Canais do dispositivo selecionado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="206"/>
-        <source>List of channels in the selected fixture mode</source>
+        <source>Lista de canais do Modo selecionado do dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="219"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;ERROR: Address already used !&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;ERRO: Endereço já utilizado!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.ui" line="236"/>
-        <source>Fixture Model</source>
+        <source>Modelo do Dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addfixture.cpp" line="96"/>
-        <source>Fixtures found: %1</source>
+        <source>Dispositivos encontrados: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
