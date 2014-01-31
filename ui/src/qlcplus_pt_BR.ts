@@ -224,7 +224,7 @@
     <name>AddVCButtonMatrix</name>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="14"/>
-        <source>Add Button Matrix</source>
+        <source>Adicionar Botão Matriz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
