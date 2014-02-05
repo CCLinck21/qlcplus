@@ -229,7 +229,7 @@
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="21"/>
-        <source>Function</source>
+        <source>Função</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
