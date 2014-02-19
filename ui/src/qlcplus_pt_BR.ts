@@ -234,77 +234,77 @@
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="26"/>
-        <source>Type</source>
+        <source>Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="34"/>
-        <source>Add functions to be attached to the buttons in the matrix</source>
+        <source>Adicione funções para serem anexadas ao Botão Matriz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="54"/>
-        <source>Remove selected functions from the list of functions to attach</source>
+        <source>Remova as Funções Selecionadas da lista de Funções Anexadas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="87"/>
-        <source>Dimensions</source>
+        <source>Dimensões</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="93"/>
-        <source>Horizontal button count</source>
+        <source>Quantidade de Botões Horizontais</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="100"/>
-        <source>Number of buttons per horizontal row</source>
+        <source>Número de botões por linha Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="113"/>
-        <source>Button size</source>
+        <source>Tamanho do Botão</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="120"/>
-        <source>Created buttons&apos; size</source>
+        <source>Botões Criados nos tamanhos indicados</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="123"/>
-        <source> px</source>
+        <source> pixels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="136"/>
-        <source>Vertical button count</source>
+        <source>Quantidade de Botões Verticais</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="143"/>
-        <source>Number of buttons per vertical column</source>
+        <source>Número de Botões por Coluna Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="153"/>
-        <source>Allocation</source>
+        <source>Distribuição</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="160"/>
-        <source>Functions / Buttons</source>
+        <source>Funções / Botões</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="173"/>
-        <source>Frame</source>
+        <source>Moldura</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="179"/>
-        <source>Place the buttons inside a normal frame</source>
+        <source>Coloque os Botões dentro de uma Moldura Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -314,12 +314,12 @@
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="189"/>
-        <source>Place the buttons inside a frame that ensures that only one of them is pressed at a time</source>
+        <source>Coloque os botões dentro de uma moldura que garanta que apenas um  seja acionado por vez</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcbuttonmatrix.ui" line="192"/>
-        <source>Solo</source>
+        <source>Individual</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
