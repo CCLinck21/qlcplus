@@ -327,71 +327,71 @@
     <name>AddVCSliderMatrix</name>
     <message>
         <location filename="addvcslidermatrix.ui" line="14"/>
-        <source>Add Slider Matrix</source>
+        <source>Adicione um Controle deslizante de Matriz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="20"/>
-        <source>Sliders</source>
+        <source>Controles Deslizantes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="26"/>
-        <source>Amount</source>
+        <source>Quantidade</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="33"/>
-        <source>Number of sliders to create</source>
+        <source>Número de Controles Deslizantes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="43"/>
-        <source>Height</source>
+        <source>Altura</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="50"/>
-        <source>Vertical height of each slider</source>
+        <source>Altura Vertical de Controle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="53"/>
         <location filename="addvcslidermatrix.ui" line="76"/>
-        <source>px</source>
+        <source>Pixels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addvcslidermatrix.ui" line="69"/>
-        <source>Width</source>
+        <source>Largura</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>AddressTool</name>
+    <name>Ferramenta de Endereçamento</name>
     <message>
         <location filename="addresstool.ui" line="14"/>
-        <source>Address Tool</source>
+        <source>Ferramenta de Endereçamento</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addresstool.ui" line="22"/>
-        <source>Reverse vertically</source>
+        <source>Inverter verticalmente</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addresstool.ui" line="35"/>
-        <source>Colour</source>
+        <source>Cor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addresstool.ui" line="51"/>
-        <source>Address</source>
+        <source>Endereço</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="addresstool.ui" line="98"/>
-        <source>Reverse Horizontally</source>
+        <source>Inverter Horizontalmente</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
