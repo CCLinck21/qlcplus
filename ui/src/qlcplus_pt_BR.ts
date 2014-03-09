@@ -399,12 +399,12 @@
     <name>App</name>
     <message>
         <location filename="app.cpp" line="212"/>
-        <source>Fixtures</source>
+        <source>Dispositivos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="214"/>
-        <source>Functions</source>
+        <source>Funções</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -414,73 +414,73 @@
     </message>
     <message>
         <location filename="app.cpp" line="218"/>
-        <source>Virtual Console</source>
+        <source>Console Virtual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="220"/>
-        <source>Simple Desk</source>
+        <source>Mesa Simplificada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="222"/>
-        <source>Inputs/Outputs</source>
+        <source>Entradas/Saídas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="280"/>
-        <source>Cannot exit in Operate mode</source>
+        <source>Não é possível sair no modo "Operação"</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="281"/>
-        <source>You must switch back to Design mode to close the application.</source>
+        <source>Volte para o modo "Design" para fechar o aplicativo.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="289"/>
-        <source>Close</source>
+        <source>Fechar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="290"/>
-        <source>Do you wish to save the current workspace before closing the application?</source>
+        <source>Voce quer salvar a Área de Trabalho atual antes de fechar o aplicativo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="314"/>
-        <source>Close the application?</source>
+        <source>Fechar o Aplicativo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="315"/>
-        <source>Do you wish to close the application?</source>
+        <source>Voce quer fechar o Aplicativo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="357"/>
-        <source>Starting Q Light Controller Plus</source>
+        <source>Iniciar o "Q Light Controller Plus"</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="418"/>
-        <source> - New Workspace</source>
+        <source> - Nova Área de Trabalho</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="452"/>
-        <source>Exit</source>
+        <source>Sair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="469"/>
-        <source>Switch to Design Mode</source>
+        <source>Alternar para o Modo "Design"</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="470"/>
-        <source>There are still running functions.
-Really stop them and switch back to Design mode?</source>
+        <source>Existem funções em execução.
+Você quer realmente interrompe-las e voltar ao modo Design?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -490,140 +490,140 @@ Really stop them and switch back to Design mode?</source>
     </message>
     <message>
         <location filename="app.cpp" line="504"/>
-        <source>Switch to design mode</source>
+        <source>Alternar para o modo Design</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="514"/>
-        <source>Operate</source>
+        <source>Operar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="515"/>
         <location filename="app.cpp" line="543"/>
-        <source>Switch to operate mode</source>
+        <source>Alternar para o modo Operar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="526"/>
-        <source>&amp;New</source>
+        <source>&Novo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="527"/>
         <source>CTRL+N</source>
-        <comment>File|New</comment>
+        <comment>Novo|Arquivo</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="530"/>
-        <source>&amp;Open</source>
+        <source>&Abrir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="531"/>
         <source>CTRL+O</source>
-        <comment>File|Open</comment>
+        <comment>Abrir|Arquivo</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="534"/>
-        <source>&amp;Save</source>
+        <source>&Salvar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="535"/>
         <source>CTRL+S</source>
-        <comment>File|Save</comment>
+        <comment>Salvar|Arquivo</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="538"/>
-        <source>Save &amp;As...</source>
+        <source>Salvar &Como...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="542"/>
-        <source>&amp;Operate</source>
+        <source>&Operar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="544"/>
         <source>CTRL+F12</source>
-        <comment>Control|Toggle operate/design mode</comment>
+        <comment>Controle|Alternar entre os modos Operar/Design</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="547"/>
-        <source>&amp;Monitor</source>
+        <source>&Monitor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="548"/>
         <source>CTRL+M</source>
-        <comment>Control|Monitor</comment>
+        <comment>Controle|Monitor</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="551"/>
-        <source>Address Tool</source>
+        <source>Ferramenta de Endereçamento</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="554"/>
-        <source>Toggle &amp;Blackout</source>
+        <source>Alternar &Blackout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="559"/>
-        <source>Live edit a function</source>
+        <source>Edição ao vivo de uma função</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="563"/>
-        <source>Dump DMX values to a function</source>
+        <source>Descartar valores DMX para esta função</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="564"/>
         <source>CTRL+D</source>
-        <comment>Control|Dump DMX</comment>
+        <comment>Controle|Descartar DMX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="567"/>
-        <source>Stop ALL functions!</source>
+        <source>Parar TODAS as funções!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="572"/>
-        <source>Fade 1 second and stop</source>
+        <source>Fade 1 segundo e parar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="577"/>
-        <source>Fade 5 seconds and stop</source>
+        <source>Fade 5 segundos e parar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="582"/>
-        <source>Fade 10 second and stop</source>
+        <source>Fade 10 segundos e parar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="587"/>
-        <source>Fade 30 second and stop</source>
+        <source>Fade 30 segundos e parar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="594"/>
-        <source>Toggle Full Screen</source>
+        <source>Alternar para Tela Cheia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="596"/>
         <source>CTRL+F11</source>
-        <comment>Control|Toggle Full Screen</comment>
+        <comment>Controle|Alternar para Tela Cheia</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
