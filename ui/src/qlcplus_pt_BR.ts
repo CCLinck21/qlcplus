@@ -550,7 +550,7 @@ Você quer realmente interrompe-las e voltar ao modo Design?</source>
     <message>
         <location filename="app.cpp" line="544"/>
         <source>CTRL+F12</source>
-        <comment>Controle|Alternar entre os modos Operar/Design</comment>
+        <comment>CTRL|AltAn unspecified error has occurred. Nice.ernar entre os modos Operar/Design</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -561,7 +561,7 @@ Você quer realmente interrompe-las e voltar ao modo Design?</source>
     <message>
         <location filename="app.cpp" line="548"/>
         <source>CTRL+M</source>
-        <comment>Controle|Monitor</comment>
+        <comment>CTRL|Monitor</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -587,7 +587,7 @@ Você quer realmente interrompe-las e voltar ao modo Design?</source>
     <message>
         <location filename="app.cpp" line="564"/>
         <source>CTRL+D</source>
-        <comment>Controle|Descartar DMX</comment>
+        <comment>CTRL|Descartar DMX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -623,127 +623,127 @@ Você quer realmente interrompe-las e voltar ao modo Design?</source>
     <message>
         <location filename="app.cpp" line="596"/>
         <source>CTRL+F11</source>
-        <comment>Controle|Alternar para Tela Cheia</comment>
+        <comment>CTRL|Alternar para Tela Cheia</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="600"/>
-        <source>&amp;Index</source>
+        <source>&Índice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="601"/>
         <source>SHIFT+F1</source>
-        <comment>Help|Index</comment>
+        <comment>Índice|Ajuda</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="604"/>
-        <source>&amp;About QLC+</source>
+        <source>&Sobre o QLC+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="610"/>
-        <source>Workspace</source>
+        <source>Espaço de Trabalho</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="665"/>
-        <source>Unable to read from file</source>
+        <source>Não é possível ler o arquivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="668"/>
-        <source>Unable to write to file</source>
+        <source>Impossível gravar no arquivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="671"/>
-        <source>A fatal error occurred</source>
+        <source>Ocorreu um erro Fatal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="674"/>
-        <source>Unable to access resource</source>
+        <source>Impossível acessar os recursos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="677"/>
-        <source>Unable to open file for reading or writing</source>
+        <source>Impossível abrir o arquivo para Leitura ou Gravação</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="680"/>
-        <source>Operation was aborted</source>
+        <source>Operação abortada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="683"/>
-        <source>Operation timed out</source>
+        <source>Operação excedeu o tempo limite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="687"/>
-        <source>An unspecified error has occurred. Nice.</source>
+        <source>Ocorreu um erro desconhecido. Que legal.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="691"/>
-        <source>File error</source>
+        <source>Erro no arquivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="753"/>
         <location filename="app.cpp" line="792"/>
         <location filename="app.cpp" line="1077"/>
-        <source>Do you wish to save the current workspace?
-Changes will be lost if you don&apos;t save them.</source>
+        <source>Deseja salvar o espaço de trabalho atual? 
+As alterações serão perdidas se você não salvá-los.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="755"/>
-        <source>New Workspace</source>
+        <source>Novo Espaço de Trabalho</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="794"/>
         <location filename="app.cpp" line="815"/>
         <location filename="app.cpp" line="1079"/>
-        <source>Open Workspace</source>
+        <source>Abrir Espaço de Trabalho</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="823"/>
         <location filename="app.cpp" line="900"/>
-        <source>Workspaces (*%1)</source>
+        <source>Espaços de Trabalho (*%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="825"/>
         <location filename="app.cpp" line="902"/>
-        <source>All Files (*.*)</source>
+        <source>Todos os Arquivos (*.*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="827"/>
         <location filename="app.cpp" line="904"/>
-        <source>All Files (*)</source>
+        <source>Todos os Arquivos (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="894"/>
-        <source>Save Workspace As</source>
+        <source>Salvar Espaço de Trabalho Como</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="1068"/>
-        <source>Error</source>
+        <source>Erro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="app.cpp" line="1069"/>
-        <source>File not found !
-The selected file has been moved or deleted.</source>
+        <source>Arquivo não encontrado! 
+Arquivo selecionado foi movido ou excluído.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -751,27 +751,27 @@ The selected file has been moved or deleted.</source>
     <name>AssignHotKey</name>
     <message>
         <location filename="assignhotkey.ui" line="14"/>
-        <source>Assign a key combination to button</source>
+        <source>Atribua uma combinação de teclas para o Botão</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="assignhotkey.ui" line="23"/>
-        <source>Key combination</source>
+        <source>Combinação de teclas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="assignhotkey.ui" line="43"/>
-        <source>Close automatically on key press</source>
+        <source>Fechar automaticamente ao pressionar a tecla</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="assignhotkey.cpp" line="50"/>
-        <source>Assign Key</source>
+        <source>Atribuir uma Tecla</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="assignhotkey.cpp" line="51"/>
-        <source>Hit the key combination that you wish to assign. You may hit either a single key or a combination using %1, %2, and %3.</source>
+        <source>Digite uma combinação de teclas que deseja atribuir. Pode digitar uma única tecla ou uma combinação delas utilizando %1, %2, and %3.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
